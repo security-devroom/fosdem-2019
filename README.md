@@ -18,7 +18,7 @@ Submissions require a small abstract and a short speaker description
 and must be submitted [via the Pentabarf system](https://penta.fosdem.org/submission/FOSDEM19)
 no later than 1st of December 2019. Suggested duration for a timeslot to apply for is 25
 minutes (20 min presentation + 5 mins questions). The schedule shall
-be finalized by 15 December 2019.
+be finalized by 10 December 2019.
 
 Instructions:
 
